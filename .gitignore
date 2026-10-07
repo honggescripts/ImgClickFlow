@@ -1,0 +1,21 @@
+# 运行期自动产生的目录与文件（不要提交）
+__pycache__/
+*.py[cod]
+
+# ImgClickFlow 运行期目录
+logs/
+screenshots_author/
+error_snapshots/
+*_操作截屏/
+
+# 自测脚本的临时工作目录
+tests/_tmp_ws/
+
+# 本地的模板截图（每个人不一样；如果你希望共享模板，把下面这行删掉）
+# templates/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
